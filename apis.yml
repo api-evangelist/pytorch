@@ -1,16 +1,15 @@
 aid: pytorch
 name: PyTorch
-description: APIs and resources for PyTorch, an open source machine learning framework
-  for tensor computation and deep learning developed by Meta.
+description: APIs and resources for PyTorch, an open source machine learning framework for tensor computation and deep learning developed by Meta.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Machine Learning
-  - Deep Learning
-  - Neural Networks
   - Artificial Intelligence
-  - Python
+  - Deep Learning
+  - Machine Learning
+  - Neural Networks
   - Open Source
+  - Python
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pytorch/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -22,8 +21,8 @@ apis:
     description: Core PyTorch library for tensor computation and deep learning.
     humanURL: https://pytorch.org/docs/stable/index.html
     tags:
-      - Machine Learning
       - Deep Learning
+      - Machine Learning
       - Tensors
     properties:
       - type: Documentation
