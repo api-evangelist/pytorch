@@ -1,63 +1,55 @@
-# PyTorch APIs (pytorch)
-APIs and resources for PyTorch, an open source machine learning framework
+# PyTorch (pytorch)
 
-**URL:** [Visit APIs.json URL](https://pytorch.org/apis.json)
+APIs and resources for PyTorch, an open source machine learning framework for tensor computation and deep learning developed by Meta.
 
-## Tags:
+**APIs.yml:** [apis.yml](apis.yml)
 
- - Machine Learning, Deep Learning, Neural Networks, Artificial Intelligence, Python, Open Source
+## Tags
+
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Neural Networks
+- Open Source
+- Python
 
 ## Timestamps
 
-- **Created:** 2024-01-01 00:00:00+00:00 
-- **Modified:** 2024-01-01 00:00:00+00:00 
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### PyTorch Core API
-Core PyTorch library for tensor computation and deep learning
+
+Core PyTorch library for tensor computation and deep learning.
 
 **Human URL:** [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
-
-
-#### Tags:
-
- - Machine Learning, Deep Learning, Neural Networks, Tensors
 
 #### Properties
 
 - [Documentation](https://pytorch.org/docs/stable/index.html)
-- [Tutorials](https://pytorch.org/tutorials/)
+- [Getting Started](https://pytorch.org/get-started/locally/)
 - [API Reference](https://pytorch.org/docs/stable/torch.html)
 - [GitHub](https://github.com/pytorch/pytorch)
-- [Installation Guide](https://pytorch.org/get-started/locally/)
 
 ### TorchVision API
-Computer vision library for PyTorch with datasets, models, and transforms
+
+Computer vision library for PyTorch with datasets, models, and transforms.
 
 **Human URL:** [https://pytorch.org/vision/stable/index.html](https://pytorch.org/vision/stable/index.html)
-
-
-#### Tags:
-
- - Computer Vision, Image Processing, Datasets, Models
 
 #### Properties
 
 - [Documentation](https://pytorch.org/vision/stable/index.html)
-- [API Reference](https://pytorch.org/vision/stable/torchvision.html)
 - [GitHub](https://github.com/pytorch/vision)
 - [Models](https://pytorch.org/vision/stable/models.html)
 
 ### TorchText API
-Natural language processing library for PyTorch
+
+Natural language processing library for PyTorch.
 
 **Human URL:** [https://pytorch.org/text/stable/index.html](https://pytorch.org/text/stable/index.html)
-
-
-#### Tags:
-
- - NLP, Natural Language Processing, Text Processing
 
 #### Properties
 
@@ -65,14 +57,10 @@ Natural language processing library for PyTorch
 - [GitHub](https://github.com/pytorch/text)
 
 ### TorchAudio API
-Audio processing library for PyTorch
+
+Audio processing library for PyTorch.
 
 **Human URL:** [https://pytorch.org/audio/stable/index.html](https://pytorch.org/audio/stable/index.html)
-
-
-#### Tags:
-
- - Audio, Audio Processing, Speech Recognition
 
 #### Properties
 
@@ -81,20 +69,15 @@ Audio processing library for PyTorch
 - [Tutorials](https://pytorch.org/audio/stable/tutorials.html)
 
 ### PyTorch Hub API
-Pre-trained model repository and discovery API
+
+Pre-trained model repository and discovery API.
 
 **Human URL:** [https://pytorch.org/hub/](https://pytorch.org/hub/)
-
-
-#### Tags:
-
- - Pre-trained Models, Model Hub, Transfer Learning
 
 #### Properties
 
 - [Documentation](https://pytorch.org/docs/stable/hub.html)
 - [Models](https://pytorch.org/hub/research-models)
-- [API Reference](https://pytorch.org/docs/stable/hub.html)
 
 ## Common Properties
 
@@ -102,13 +85,12 @@ Pre-trained model repository and discovery API
 - [Community](https://pytorch.org/community)
 - [Forums](https://discuss.pytorch.org/)
 - [GitHub Organization](https://github.com/pytorch)
-- [Resources](https://pytorch.org/resources)
-- [Ecosystem](https://pytorch.org/ecosystem)
 - [Getting Started](https://pytorch.org/get-started/pytorch-2.0/)
-- [License](https://github.com/pytorch/pytorch/blob/master/LICENSE)
+- [Website](https://pytorch.org)
+- [Ecosystem](https://pytorch.org/ecosystem)
 
 ## Maintainers
 
-**FN:** PyTorch Team
+**FN:** Kin Lane
 
-**Email:** pytorch@meta.com
+**Email:** kin@apievangelist.com
