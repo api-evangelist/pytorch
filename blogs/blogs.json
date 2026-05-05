@@ -1,0 +1,13 @@
+{
+  "repo": "pytorch",
+  "feeds": [
+    {
+      "source": "https://pytorch.org/blog/",
+      "feed_url": "https://pytorch.org/feed/",
+      "saved": 10,
+      "title": "PyTorch"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:34:18Z"
+}
