@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://pytorch.org/blog/",
-      "feed_url": "https://pytorch.org/feed/",
-      "saved": 10,
-      "title": "PyTorch"
+      "feed_url": "https://pytorch.org/blog/feed/",
+      "title": "Blog \u2013 PyTorch",
+      "saved": 1
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-03T23:34:18Z"
+  "post_count": 11,
+  "fetched": "2026-05-09T20:17:51Z"
 }
