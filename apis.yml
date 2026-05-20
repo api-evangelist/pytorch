@@ -88,6 +88,8 @@ apis:
       - type: Models
         url: https://pytorch.org/hub/research-models
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pytorch
   - type: Blog
     url: https://pytorch.org/blog/
   - type: Community
