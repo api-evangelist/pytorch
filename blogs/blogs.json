@@ -2,12 +2,20 @@
   "repo": "pytorch",
   "feeds": [
     {
-      "source": "https://pytorch.org/blog/",
+      "source": "https://pytorch.org/blog/feed/",
       "feed_url": "https://pytorch.org/blog/feed/",
-      "title": "Blog \u2013 PyTorch",
-      "saved": 6
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.linkedin.com/company/pytorch",
+      "feed_url": "https://www.linkedin.com/company/pytorch",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 17,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 26,
+  "fetched": "2026-06-01T23:35:02Z"
 }
