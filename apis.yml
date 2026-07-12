@@ -88,6 +88,8 @@ apis:
       - type: Models
         url: https://pytorch.org/hub/research-models
 common:
+  - type: DomainSecurity
+    url: security/pytorch-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pytorch
   - type: Blog
