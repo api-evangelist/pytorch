@@ -4,14 +4,18 @@ description: APIs and resources for PyTorch, an open source machine learning fra
 type: Index
 deliveryModel:
   model: unknown
-  open_source: false
+  license_evidence:
+    repo: pytorch/pytorch
+    spdx: NOASSERTION
+    stars: 103293
+  open_source: unknown
   commercial: false
   callable_host: false
   label: Delivery model not determined — needs a product licence on record
   confidence: low
   source:
-  - none
-  generated: '2026-08-28'
+  - repository-unlicensed
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -29,9 +33,9 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pytorch.pn
 tags:
   - Artificial Intelligence
   - Deep Learning
-  - Machine-Learning
+  - Machine Learning
   - Neural Networks
-  - Open-Source
+  - Open Source
   - Python
 tags_raw:
   - Artificial Intelligence
@@ -40,6 +44,8 @@ tags_raw:
   - Neural Networks
   - Open Source
   - Python
+  - Machine-Learning
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pytorch/refs/heads/main/apis.yml
 created: '2024-01-01'
@@ -52,12 +58,13 @@ apis:
     humanURL: https://pytorch.org/docs/stable/index.html
     tags:
       - Deep Learning
-      - Machine-Learning
+      - Machine Learning
       - Tensors
     tags_raw:
       - Deep Learning
       - Machine Learning
       - Tensors
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://pytorch.org/docs/stable/index.html
@@ -72,13 +79,14 @@ apis:
     description: Computer vision library for PyTorch with datasets, models, and transforms.
     humanURL: https://pytorch.org/vision/stable/index.html
     tags:
-      - Computer-Vision
+      - Computer Vision
       - Image Processing
       - Models
     tags_raw:
       - Computer Vision
       - Image Processing
       - Models
+      - Computer-Vision
     properties:
       - type: Documentation
         url: https://pytorch.org/vision/stable/index.html
