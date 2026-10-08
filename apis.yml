@@ -134,6 +134,12 @@ apis:
       - type: Models
         url: https://pytorch.org/hub/research-models
 common:
+  - type: Plans
+    url: plans/pytorch-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/pytorch-rate-limits.yml
+  - type: FinOps
+    url: finops/pytorch-finops.yml
   - type: DomainSecurity
     url: security/pytorch-domain-security.yml
   - type: LinkedIn
