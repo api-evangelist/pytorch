@@ -99,6 +99,9 @@ apis:
     description: Natural language processing library for PyTorch.
     humanURL: https://pytorch.org/text/stable/index.html
     tags:
+      - Natural Language Processing
+      - Text Processing
+    tags_raw:
       - NLP
       - Text Processing
     properties:
