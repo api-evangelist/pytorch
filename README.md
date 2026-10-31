@@ -1,4 +1,4 @@
-# PyTorch (pytorch)
+# PyTorch
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,95 +66,106 @@
 
 APIs and resources for PyTorch, an open source machine learning framework for tensor computation and deep learning developed by Meta.
 
-**APIs.yml:** [apis.yml](apis.yml)
+**Areas:** Artificial Intelligence · Deep Learning · Machine Learning · Neural Networks · Open Source · Python
 
-## Tags
+## PyTorch on APIs.io
 
-- Artificial Intelligence
-- Deep Learning
-- Machine Learning
-- Neural Networks
-- Open Source
-- Python
+Everything profiled for PyTorch is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pytorch/](https://apis.io/providers/pytorch/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (5)
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-28
+- [PyTorch Core API](https://apis.io/apis/pytorch/pytorch-core-api/) — Core PyTorch library for tensor computation and deep learning.
+- [TorchVision API](https://apis.io/apis/pytorch/torchvision/) — Computer vision library for PyTorch with datasets, models, and transforms.
+- [TorchText API](https://apis.io/apis/pytorch/torchtext/) — Natural language processing library for PyTorch.
+- [TorchAudio API](https://apis.io/apis/pytorch/torchaudio/) — Audio processing library for PyTorch.
+- [PyTorch Hub API](https://apis.io/apis/pytorch/pytorch-hub/) — Pre-trained model repository and discovery API.
 
-## APIs
+### Published properties
 
-### PyTorch Core API
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-Core PyTorch library for tensor computation and deep learning.
+#### Security (1)
 
-**Human URL:** [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Properties
+- [Pytorch Domain Security](https://apis.io/security/pytorch/pytorch-domain-security/)
 
-- [Documentation](https://pytorch.org/docs/stable/index.html)
-- [Getting Started](https://pytorch.org/get-started/locally/)
-- [API Reference](https://pytorch.org/docs/stable/torch.html)
-- [GitHub](https://github.com/pytorch/pytorch)
+#### Plans and pricing (1)
 
-### TorchVision API
+Published plans, tiers and prices.
 
-Computer vision library for PyTorch with datasets, models, and transforms.
+- [Pytorch Plans Pricing](https://apis.io/plans/pytorch/pytorch-plans-pricing/)
 
-**Human URL:** [https://pytorch.org/vision/stable/index.html](https://pytorch.org/vision/stable/index.html)
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://pytorch.org/vision/stable/index.html)
-- [GitHub](https://github.com/pytorch/vision)
-- [Models](https://pytorch.org/vision/stable/models.html)
+- [Pytorch Rate Limits](https://apis.io/rate-limits/pytorch/pytorch-rate-limits/)
 
-### TorchText API
+#### FinOps (1)
 
-Natural language processing library for PyTorch.
+What the API costs to run, by operation.
 
-**Human URL:** [https://pytorch.org/text/stable/index.html](https://pytorch.org/text/stable/index.html)
+- [Pytorch Finops](https://apis.io/finops/pytorch/pytorch-finops/)
 
-#### Properties
+## Where to find this API
 
-- [Documentation](https://pytorch.org/text/stable/index.html)
-- [GitHub](https://github.com/pytorch/text)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-### TorchAudio API
-
-Audio processing library for PyTorch.
-
-**Human URL:** [https://pytorch.org/audio/stable/index.html](https://pytorch.org/audio/stable/index.html)
-
-#### Properties
-
-- [Documentation](https://pytorch.org/audio/stable/index.html)
-- [GitHub](https://github.com/pytorch/audio)
-- [Tutorials](https://pytorch.org/audio/stable/tutorials.html)
-
-### PyTorch Hub API
-
-Pre-trained model repository and discovery API.
-
-**Human URL:** [https://pytorch.org/hub/](https://pytorch.org/hub/)
-
-#### Properties
-
-- [Documentation](https://pytorch.org/docs/stable/hub.html)
-- [Models](https://pytorch.org/hub/research-models)
-
-## Common Properties
-
-- [Blog](https://pytorch.org/blog/)
-- [Community](https://pytorch.org/community)
-- [Forums](https://discuss.pytorch.org/)
-- [GitHub Organization](https://github.com/pytorch)
-- [Getting Started](https://pytorch.org/get-started/pytorch-2.0/)
 - [Website](https://pytorch.org)
-- [Ecosystem](https://pytorch.org/ecosystem)
+- [Getting started](https://pytorch.org/get-started/pytorch-2.0/)
+- [Blog](https://pytorch.org/blog/)
+- [GitHub](https://github.com/pytorch)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 13.5** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pytorch/](https://apis.io/providers/pytorch/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PyTorch: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pytorch/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
